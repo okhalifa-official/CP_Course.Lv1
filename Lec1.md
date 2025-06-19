@@ -111,11 +111,11 @@ double pi = 3.14159265359;
 #### Range of Data
 * `int`:  
   **Typical range:** -2,147,483,648 to 2,147,483,647 (32-bit signed)
-  **Simplified Range: -10^9 : 10^9**
+  **Simplified Range: -10<sup>9</sup> : 10<sup>9</sup>**
   <br>
 * `long long int`:    
   **Typical range:** -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 (64-bit signed)
-  **Simplified Range: -10^18 : 10^18**
+  **Simplified Range: -10<sup>18</sup> : 10<sup>18</sup>**
 ---
 
 ### Casting
