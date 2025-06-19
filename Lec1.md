@@ -113,6 +113,7 @@ double pi = 3.14159265359;
 * `long long int`:    
   **Typical range:** -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 (64-bit signed)
   **Simplified Range: -10<sup>18</sup> : 10<sup>18</sup>**
+  
 ---
 
 ### Casting
