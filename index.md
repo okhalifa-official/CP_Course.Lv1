@@ -1,3 +1,8 @@
+---
+layout: default
+title: CP Course Level 1
+---
+
 # Welcome to CP Course Level 1
 
 Here are the available lectures:
