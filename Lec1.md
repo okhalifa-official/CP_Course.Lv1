@@ -3,6 +3,8 @@ layout: default
 title: Lecture 1
 ---
 
+<div style="background-color: #f0f8ff; padding: 1rem; border-radius: 8px;">
+
 #### 🌍 Translations
 
 - [🇸🇦 Arabic](https://translate.google.com/translate?hl=ar&sl=en&u=https://okhalifa-official.github.io/CP_Course.Lv1/Lec1)
