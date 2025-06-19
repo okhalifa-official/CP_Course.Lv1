@@ -1,3 +1,5 @@
+[🌐 View this page in Arabic (via Google Translate)](https://translate.google.com/translate?hl=ar&sl=en&u=https://github.com/yourusername/yourrepo/blob/main/README.md)
+<br>
 # Introduction to Competitive Programming (CP)
 
 ## Online Judge
