@@ -1,4 +1,4 @@
-[🌐 View this page in Arabic (via Google Translate)](https://translate.google.com/translate?hl=ar&sl=en&u=https://github.com/yourusername/yourrepo/blob/main/README.md)
+[🌐 View this page in Arabic (via Google Translate)](https://translate.google.com/translate?hl=ar&sl=en&u=https://github.com/okhalifa-official/CP_Course.Lv1/blob/main/Lec%231.md)
 <br>
 # Introduction to Competitive Programming (CP)
 
