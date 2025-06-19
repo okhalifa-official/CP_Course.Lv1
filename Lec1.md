@@ -3,7 +3,7 @@ layout: default
 title: Lecture 1
 ---
 
-<div style="background-color: #f0f8ff; padding: 1rem; border-radius: 8px;">
+<div style="background-color: #f0f8ff; padding: 1rem; border-radius: 8px;"></div>
 
 #### 🌍 Translations
 
