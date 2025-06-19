@@ -7,7 +7,7 @@ title: CP Course Level 1
 
 Here are the available lectures:
 
-- [Lecture 1](Lec1)
+- [Lecture 1](Lec1.md)
 
 More coming soon!
 
