@@ -4,9 +4,9 @@ title: Lecture 1
 ---
 
 #### 🌍 Translations
-- [🇸🇦 Arabic](https://translate.google.com/translate?hl=ar&sl=en&u=https://github.com/okhalifa-official/CP_Course.Lv1/blob/main/Lec1.md/)
-- [🇫🇷 French](https://translate.google.com/translate?hl=fr&sl=en&u=https://github.com/okhalifa-official/CP_Course.Lv1/blob/main/Lec1.md/)
-- [🇪🇸 Spanish](https://translate.google.com/translate?hl=es&sl=en&u=https://github.com/okhalifa-official/CP_Course.Lv1/blob/main/Lec1.md/)
+- [🇸🇦 Arabic](https://translate.google.com/translate?hl=ar&sl=en&u=https://github.com/okhalifa-official.github.io/CP_Course.Lv1/Lec1.html/)
+- [🇫🇷 French](https://translate.google.com/translate?hl=fr&sl=en&u=https://github.com/okhalifa-official.github.io/CP_Course.Lv1/Lec1.html/)
+- [🇪🇸 Spanish](https://translate.google.com/translate?hl=es&sl=en&u=https://github.com/okhalifa-official.github.io/CP_Course.Lv1/Lec1.html/)
 
 # Introduction to Competitive Programming (CP)
 
