@@ -59,6 +59,7 @@ These are basic concepts from electronics that help in understanding binary logi
 Example in code:
 
 **AND Gate (&&)**
+
 | A | B | Result |
 |---|---|--------|
 | 0 | 0 |   0    |
