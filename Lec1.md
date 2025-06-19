@@ -273,13 +273,15 @@ for (int i = 0; i < 3; i++) {
    }
 }
 ```
-
----
+<br>
 
 🎉 **You're off to a great start!**
 Keep practicing and solving problems — that’s the best way to learn.
+<br>
 
 ---
+
+<br>
 
 © 2025 Pathline Training Academy | Made with 💙 by Omar Khalifa  
 [Back to Top](#top)
