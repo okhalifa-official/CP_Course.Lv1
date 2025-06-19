@@ -1,9 +1,3 @@
----
-layout: default
-title: CP Course Level 1
----
-
-
 #### 🌍 Translations
 - [🇸🇦 Arabic](https://translate.google.com/translate?hl=ar&sl=en&u=https://github.com/okhalifa-official/CP_Course.Lv1/blob/main/Lec%231.md/)
 - [🇫🇷 French](https://translate.google.com/translate?hl=fr&sl=en&u=https://github.com/okhalifa-official/CP_Course.Lv1/blob/main/Lec%231.md/)
