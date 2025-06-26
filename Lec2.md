@@ -152,7 +152,6 @@ title: Lecture 2
   int square(int x) {
       return x * x;
   }
-  ```.
   ````
 * Define functions to organize your program better.
 * Example:
