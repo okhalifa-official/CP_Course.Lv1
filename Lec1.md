@@ -224,7 +224,7 @@ for (int i = 0; i < 5; i++) {
 
 ---
 
-### 🔁 While Loop
+### While Loop
 
 Repeats while a condition is true.
 
