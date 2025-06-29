@@ -96,6 +96,13 @@ title: Lecture 2
       cout << c << " "; // print all chars in string
   }
   ```
+  
+* Selecting a substring with `substr(pos, len)`:
+  ```cpp
+  string text = "OmarKhalifa";
+  string sub = text.substr(4,7);  // output: Khalifa
+  ```
+  
 
 ### Casting Digits from Characters
 
