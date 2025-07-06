@@ -36,22 +36,22 @@ title: Lecture 3
 * **O(N) – Linear Time**
 
   * Time grows directly with input size `N`.
-  * *Example:* Looping once over an array of size `N`.
-_**Visual Explanation :** [Linear Search Visualization](https://visualgo.net/en/array)_
+  * *Example:* Looping once over an array of size `N`.<br>
+    _**Visual Explanation :** [Linear Search Visualization](https://visualgo.net/en/array)_
 
 
 * **O(N²) – Quadratic Time**
 
   * Time grows with the square of input size.
-  * *Example:* Nested loops over an array.
-_**Visual Explanation :** [Selection Sort Visualization](https://algorithm-visualizer.org/brute-force/selection-sort)_
+  * *Example:* Nested loops over an array.<br>
+    _**Visual Explanation :** [Selection Sort Visualization](https://algorithm-visualizer.org/brute-force/selection-sort)_
   
 
 * **O(log N) – Logarithmic Time**
 
   * Time grows with the logarithm of `N`.
-  * *Example:* Binary search on a sorted array.
-_**Visual Explanation :** [Binary Search Visualization](https://algorithm-visualizer.org/branch-and-bound/binary-search)_
+  * *Example:* Binary search on a sorted array.<br>
+    _**Visual Explanation :** [Binary Search Visualization](https://algorithm-visualizer.org/branch-and-bound/binary-search)_
 
 ![Common Time Complexities Chart](https://paper-attachments.dropbox.com/s_2D428973624E7FC84C7D69D11421DE762BEA6B6F3361231FCDCAE0425D14526F_1664885448372_Untitled.drawio+17.png)
 
