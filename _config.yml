@@ -1,13 +1,4 @@
 markdown: kramdown
 title: CP Course Level 1
 description: Learn Competitive Programming
-theme: null
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-include-cache
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-archives
-  - jekyll-remote-theme
+theme: jekyll-theme-cayman
