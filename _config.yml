@@ -10,3 +10,4 @@ permalink: pretty
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
