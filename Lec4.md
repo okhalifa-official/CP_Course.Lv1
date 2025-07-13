@@ -212,7 +212,6 @@ A max-heap by default. Highest-priority element is accessed first.
 ```cpp
 #include <map>
 map<int, string> m;            // empty map
-map<int, string> m = {{1, "a"}, {2, "b"}};  // initializer list
 ```
 
 ### Description
