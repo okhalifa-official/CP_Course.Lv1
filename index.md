@@ -12,8 +12,6 @@ Here are the available lectures:
 - [Lecture 3](Lec3.md)
 - [Lecture 4](Lec4.md)
 
-More coming soon!
-
 ---
 
 © 2025 Pathline Training Academy | Made with 💙 by Omar Khalifa  
