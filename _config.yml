@@ -1,3 +1,12 @@
 title: CP Course Level 1
+description: A competitive programming starter course
 theme: minima
 markdown: kramdown
+permalink: pretty
+
+url: "https://okhalifa-official.github.io"
+baseurl: "/CP_Course.Lv1"
+
+# Optional (helps avoid 404s when clicking posts)
+plugins:
+  - jekyll-feed
