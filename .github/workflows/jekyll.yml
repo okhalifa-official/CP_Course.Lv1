@@ -1,0 +1,17 @@
+name: Build Jekyll site
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  jekyll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: helaili/jekyll-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          target_branch: gh-pages
+          jekyll_src: .
+          jekyll_build_opts: "--trace"
