@@ -6,9 +6,7 @@ title: Lecture 4
 🇸🇦 [Arabic](https://translate.google.com/translate?hl=ar&sl=en&u=https://okhalifa-official.github.io/CP_Course.Lv1/Lec4) 🇫🇷 [French](https://translate.google.com/translate?hl=fr&sl=en&u=https://okhalifa-official.github.io/CP_Course.Lv1/Lec4) 🇪🇸 [Spanish](https://translate.google.com/translate?hl=es&sl=en&u=https://okhalifa-official.github.io/CP_Course.Lv1/Lec4) 🇩🇪 [German](https://translate.google.com/translate?hl=de&sl=en&u=https://okhalifa-official.github.io/CP_Course.Lv1/Lec4)
 
 # STLs
-
 ## Pair
-
 ### Initialization
 
 ```cpp
