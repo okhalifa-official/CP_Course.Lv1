@@ -1,4 +1,4 @@
 markdown: kramdown
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
 title: CP Course Level 1
 description: Learn Competitive Programming
