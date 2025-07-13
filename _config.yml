@@ -1,4 +1,3 @@
-markdown: kramdown
 title: CP Course Level 1
-description: Learn Competitive Programming
-theme: jekyll-theme-cayman
+theme: minima
+markdown: kramdown
