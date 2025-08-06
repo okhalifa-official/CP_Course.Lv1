@@ -167,6 +167,6 @@ _**Visual Explanation :** [Fibonacci Visualization](https://visualgo.net/en/recu
 
 <br>
 
-© 2025 Pathline Training Academy | Made with 💙 by <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="omar-khalifa-625586292" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/omar-khalifa-625586292?trk=profile-badge">Omar Khalifa</a></div>
+© 2025 Pathline Training Academy | Made with 💙 by <a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/omar-khalifa-625586292?trk=profile-badge">Omar Khalifa</a>
                 
 [Back to Top](#top)
