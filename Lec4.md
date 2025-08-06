@@ -3,6 +3,8 @@ layout: default
 title: Lecture 4
 ---
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 🇸🇦 [Arabic](https://translate.google.com/translate?hl=ar&sl=en&u=https://okhalifa-official.github.io/CP_Course.Lv1/Lec4) 🇫🇷 [French](https://translate.google.com/translate?hl=fr&sl=en&u=https://okhalifa-official.github.io/CP_Course.Lv1/Lec4) 🇪🇸 [Spanish](https://translate.google.com/translate?hl=es&sl=en&u=https://okhalifa-official.github.io/CP_Course.Lv1/Lec4) 🇩🇪 [German](https://translate.google.com/translate?hl=de&sl=en&u=https://okhalifa-official.github.io/CP_Course.Lv1/Lec4)
 
 # STLs
@@ -322,5 +324,5 @@ These functions simplify many common tasks and save you from implementing them m
 
 <br>
 
-© 2025 Pathline Training Academy | Made with 💙 by Omar Khalifa  
+© 2025 Pathline Training Academy | Made with 💙 by <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="omar-khalifa-625586292" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/omar-khalifa-625586292?trk=profile-badge">Omar Khalifa</a></div>  
 [Back to Top](#top)
